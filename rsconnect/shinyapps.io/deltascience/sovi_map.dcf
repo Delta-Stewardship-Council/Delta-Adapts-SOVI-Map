@@ -1,0 +1,12 @@
+name: sovi_map
+title:
+username: deltascience
+account: deltascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10026845
+bundleId: 7740509
+url: https://deltascience.shinyapps.io/sovi_map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
